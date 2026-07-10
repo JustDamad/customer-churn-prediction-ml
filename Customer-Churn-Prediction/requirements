@@ -1,0 +1,16 @@
+
+Software
+	•	Python 3.x
+	•	Jupyter Notebook
+
+Python Libraries
+
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+
+Using pip
+
+pip install pandas numpy matplotlib seaborn scikit-learn
