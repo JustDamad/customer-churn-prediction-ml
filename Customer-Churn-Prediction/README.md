@@ -129,6 +129,13 @@ Customer-Churn-Prediction
 ├── requirements.txt
 └── LICENSE
 
+## Churn Distribution
+
+![Churn Distribution](images/churn_distribution.png)
+
+## Model Comparison
+
+![Model Comparison](images/model_comparison.png)
 
 
 Author
