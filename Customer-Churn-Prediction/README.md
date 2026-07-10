@@ -1,4 +1,10 @@
-Customer Churn Prediction using Machine Learning
+# Customer Churn Prediction using Machine Learning
+
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-orange)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-lightgrey)
+![License: MIT](https://img.shields.io/badge/License-MIT-green)
+
 
 Overview
 
@@ -36,6 +42,28 @@ Technologies Used
 	•	Seaborn
 	•	Scikit-Learn
 	•	Jupyter Notebook
+
+## Project Highlights
+
+ Data Cleaning
+
+ Exploratory Data Analysis
+
+ Feature Engineering
+
+ Feature Scaling
+
+ Logistic Regression
+
+ Decision Tree
+
+ Random Forest
+
+ ROC Curve
+
+ Confusion Matrix
+
+ Business Recommendations
 
 
 Project Workflow
@@ -99,6 +127,14 @@ Logistic Regression produced the highest overall performance with:
 
 It is therefore recommended as the preferred model for deployment.
 
+## Key Results
+
+- Dataset: 7,032 customers
+- Best Model: Logistic Regression
+- Accuracy: 80.5%
+- F1 Score: 60.9%
+- Three ML models evaluated
+
 
 Business Insights
 
@@ -137,6 +173,17 @@ Customer-Churn-Prediction
 
 ![Model Comparison](images/model_comparison.png)
 
+## Contract Type vs Churn
+
+![Customer Churn Prediction/](images/feature_importance.png)
+
+## ROC Curve
+
+![ROC Curve](images/roc_curve.png)
+
+## Logistic Regression Coefficients
+
+![confusion matrix logistic](images/confusion_matrix_logistic.png)
 
 Author
 
